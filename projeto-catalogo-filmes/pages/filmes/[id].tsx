@@ -11,7 +11,7 @@ const detalhesFilmes: Record<string, any> = {
     ondeAssistir: 'Amazon Prime Video',
     duracao: '2h 58min',
     genero: 'Fantasia, Aventura',
-    nota: '8.8'
+    nota: '9.2'
   },
   '2': {
     titulo: 'Matrix',
@@ -22,7 +22,7 @@ const detalhesFilmes: Record<string, any> = {
     ondeAssistir: 'HBO Max',
     duracao: '2h 16min',
     genero: 'Ficção científica, Ação',
-    nota: '8.7'
+    nota: '7.3'
   },
   '3': {
     titulo: 'A Origem',
@@ -33,7 +33,7 @@ const detalhesFilmes: Record<string, any> = {
     ondeAssistir: 'Netflix',
     duracao: '2h 28min',
     genero: 'Ação, Ficção científica',
-    nota: '8.8'
+    nota: '7.4'
   }
 };
 
